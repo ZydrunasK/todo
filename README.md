@@ -1,21 +1,24 @@
- # to do App
+ <br>
+ 
+ # todo App
 
-
-
-You can see it <a href="https://zydrunask.github.io/todo/">here</a>
+You can see it <a href="https://zydrunask.github.io/todo">here</a>
 
 
 ## About
 
+An App designed to keep track of your tasks and goals and their status.
 
 
 ## Project feature/goal
 - githup pages
-- javascript
+- JS event listeners
 - CSS file
-- **NO** responsive design
+- DOM (document object model)
+- Google Fonts
+- OOP (Object Oriented Porgramming)
+- localStorage
 
-<br>
 
 ## Author
 
