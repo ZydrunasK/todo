@@ -9,7 +9,7 @@
   "keywords": ["HTML", "DOM", "CSS", "JS", "LOCALSTORAGE"],
   "author": "Zydrunas (https://github.com/ZydrunasK)",
   "license": "ISC",
-  "description": "Užduočių valdymo progromėlėm, kur įvesti duomenys yra saugomi vietinėje saugykloje",
+  "description": "Užduočių valdymo progromėlė, kur įvesti duomenys yra saugomi vietinėje saugykloje",
   "devDependencies": {
     "dead-server": "^1.0.9"
   }
