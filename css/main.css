@@ -1,3 +1,26 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap'); */
+
+@font-face {
+    font-family: 'Playwrite';
+    src: url('../fonts/Playwrite_AU_SA/static/PlaywriteAUSA-Thin.ttf');
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'Playwrite';
+    src: url('../fonts/Playwrite_AU_SA/static/PlaywriteAUSA-ExtraLight.ttf');
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'Playwrite';
+    src: url('../fonts/Playwrite_AU_SA/static/PlaywriteAUSA-Light.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Playwrite';
+    src: url('../fonts/Playwrite_AU_SA/static/PlaywriteAUSA-Regular.ttf');
+    font-weight: 400;
+}
+
 body,
 body * {
     margin: 0;
@@ -5,5 +28,5 @@ body * {
     box-sizing: border-box;
 }
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Playwrite, Arial, Helvetica, sans-serif;
 }
