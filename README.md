@@ -2,8 +2,7 @@
  
  # todo App
 
-You can see it <a href="https://zydrunask.github.io/todo">here</a>
-
+You can see it [here](https://zydrunask.github.io/todo)
 
 ## About
 
