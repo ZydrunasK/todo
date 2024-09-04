@@ -2,12 +2,14 @@
     padding: 2rem;
 }
 .main-title {
-
+line-height: 1.1em;
+margin-bottom: 2rem;
 }
 .task-content {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
     gap: 1rem;
+    grid-template-columns: 1fr;
+
 }
 .main-content > .column {
     display: flex;
@@ -21,4 +23,9 @@
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
+}
+@media (min-width: 800px) {
+    .task-content {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
