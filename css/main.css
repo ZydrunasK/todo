@@ -3,6 +3,7 @@
 @import '../css/components/footer.css';
 @import '../css/components/form-create.css';
 @import '../css/components/list.css';
+@import '../css/components/button.css';
 
 @font-face {
     font-family: 'Playwrite';
@@ -36,4 +37,13 @@ body {
 }
 main {
     min-height: calc(100vh - 9rem);
+}
+.title-div {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+}
+@media (min-width: 50rem) {
+    
 }
